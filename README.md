@@ -4,7 +4,7 @@
 
 ## Background
 
-Normally an interactive application will need to hold state somewhere. In React,
+Normally an interactive application will need to hold state somewhere. In out React project,
 you use special functions called "hooks" to do this. Common built-in hooks
 include:
 
